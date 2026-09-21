@@ -1,3 +1,5 @@
+> **Guia em português deste fork:** [como este projeto pode nos ajudar, ideias de adaptação e diário de estudos](./README-PT-BR.md).
+
 ![Generative AI For Beginners](./images/repo-thumbnailv4-fixed.png?WT.mc_id=academic-105485-koreyst)
 
 ### 21 Lessons teaching everything you need to know to start building Generative AI applications
@@ -181,3 +183,4 @@ If you get stuck or have any questions about building AI apps. Join fellow learn
 If you have product feedback or errors while building visit:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+
